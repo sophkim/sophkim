@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="center"> Hi there 👋 </p>
 
 🌱 I’m currently learning React with Typescript.
 📫 How to reach me: soph.b.kim@gmail.com
