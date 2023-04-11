@@ -6,7 +6,7 @@
 
 📫 How to reach me: soph.b.kim@gmail.com
 
-  <div align=center>
+  <div align=left>
  
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophkim)](https://github.com/anuraghazra/github-readme-stats)
  
@@ -14,3 +14,9 @@
 </div>
 
  
+<div align=right>
+ 
+   <p>s<p>
+ 
+  
+</div>
