@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### I'm a front-end developer from South Korea.
 
-Skills: REACT / JS / TS / HTML / CSS / PYTHON
-If you would like to have my help with your team and product, feel free to contact me.
+<p>Skills: REACT / JS / TS / HTML / CSS / PYTHON<p>
+<p>If you would like to have my help with your team and product, feel free to contact me.<p>
 
 📫 How to reach me: soph.b.kim@gmail.com
 
