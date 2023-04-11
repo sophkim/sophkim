@@ -1,6 +1,8 @@
+### Hi there 👋, my name is Arturs
+#### I am a web developer.
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<h2 align="center"> Hi there 👋 </h2>
+Skills: REACT / JS / TS / HTML / CSS / PYTHON
+![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 
 🌱 I’m currently learning React with Typescript.
 📫 How to reach me: soph.b.kim@gmail.com
