@@ -1,5 +1,5 @@
 
-<p align="center"> ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) </p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <h2 align="center"> Hi there 👋 </h2>
 
 🌱 I’m currently learning React with Typescript.
