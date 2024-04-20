@@ -1,2 +1,2 @@
-##### Be the change you want to see in the world.
+##### hehe
 ##### soph.b.kim@gmail.com
