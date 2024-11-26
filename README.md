@@ -9,14 +9,16 @@ Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence
 - **Speech-to-Text (STT)**: Developing robust transcription models.
 - **Speech-to-Speech (S2S)**: Enhancing real-time voice conversion and transformation.
 
----
+
+
 
 ## Current Focus
 🔍 **Investigating diffusion-based approaches** for audio generation and exploring novel architectures for improved fidelity and realism.
 
 🎵 **Developing TTS and STT models** that are efficient, scalable, and capable of handling low-resource languages.
 
----
+
+
 
 ## Repository Overview
 This repository contains my research and project implementations in the field of AI. You will find:
@@ -33,7 +35,7 @@ This repository contains my research and project implementations in the field of
 4. **Speech-to-Speech Conversion Tools**:
    - Real-time voice transformation and translation experiments.
 
----
+
 
 ## Contact
 📫 Feel free to reach out to collaborate or discuss AI research!  
