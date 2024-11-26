@@ -9,7 +9,6 @@ Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence
 - **Speech-to-Speech (S2S)**: Enhancing real-time voice conversion and transformation.
 
 <br/>
-<br/>
 
 
 ## Current Focus
@@ -19,7 +18,6 @@ Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence
 
 
 
-<br/>
 <br/>
 
 ## Repository Overview
@@ -39,10 +37,15 @@ This repository contains my research and project implementations in the field of
 
 
 <br/>
-<br/>
 
 ## Contact
 📫 Feel free to reach out to collaborate or discuss AI research!  
-- **Email**: [imkimbn@gmail.com](mailto:imkimbn@gmail.com)  
+- **Email**: [imkimbn@gmail.com](mailto:imkimbn@gmail.com)
+  
+<br/>
 
 Let's innovate together! 🚀
+
+
+<br/>
+<br/>
