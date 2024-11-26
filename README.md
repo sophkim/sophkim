@@ -1,4 +1,3 @@
-# AI Research Projects
 
 ## About Me
 Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence, specializing in **audio processing and generation**. My research interests include:
@@ -9,7 +8,8 @@ Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence
 - **Speech-to-Text (STT)**: Developing robust transcription models.
 - **Speech-to-Speech (S2S)**: Enhancing real-time voice conversion and transformation.
 
-
+<br/>
+<br/>
 
 
 ## Current Focus
@@ -19,6 +19,8 @@ Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence
 
 
 
+<br/>
+<br/>
 
 ## Repository Overview
 This repository contains my research and project implementations in the field of AI. You will find:
@@ -36,6 +38,8 @@ This repository contains my research and project implementations in the field of
    - Real-time voice transformation and translation experiments.
 
 
+<br/>
+<br/>
 
 ## Contact
 📫 Feel free to reach out to collaborate or discuss AI research!  
