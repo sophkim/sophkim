@@ -11,7 +11,7 @@ Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence
 🔍 **Investigating diffusion-based approaches** for audio generation and exploring novel architectures for improved fidelity and realism.
 🎵 **Developing TTS and STT models** that are efficient, scalable, and capable of handling low-resource languages.
 <br/>
-
+<br/>
 ## Repository Overview
 This repository contains my research and project implementations in the field of AI. You will find:
 1. **Diffusion Model Implementations**:
