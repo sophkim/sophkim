@@ -23,7 +23,6 @@ This repository contains my research and project implementations in the field of
 4. **Speech-to-Speech Conversion Tools**:
    - Real-time voice transformation and translation experiments.
 <br/>
-<br/>
 
 ## Contact
 📫 Feel free to reach out to collaborate or discuss AI research!  
@@ -31,5 +30,4 @@ This repository contains my research and project implementations in the field of
   
 <br/>
 Let's innovate together! 🚀
-<br/>
 <br/>
