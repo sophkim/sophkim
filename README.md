@@ -5,7 +5,6 @@ Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence
 - **Text-to-Speech (TTS)**: Synthesizing natural-sounding speech from text inputs.
 - **Speech-to-Text (STT)**: Developing robust transcription models.
 - **Speech-to-Speech (S2S)**: Enhancing real-time voice conversion and transformation.
-<br/>
 
 ## Current Focus
 🔍 **Investigating diffusion-based approaches** for audio generation and exploring novel architectures for improved fidelity and realism.
