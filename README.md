@@ -9,8 +9,7 @@ Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence
 ## Current Focus
 🔍 **Investigating diffusion-based approaches** for audio generation and exploring novel architectures for improved fidelity and realism.
 🎵 **Developing TTS and STT models** that are efficient, scalable, and capable of handling low-resource languages.
-<br/>
-<br/>
+
 ## Repository Overview
 This repository contains my research and project implementations in the field of AI. You will find:
 1. **Diffusion Model Implementations**:
@@ -21,12 +20,9 @@ This repository contains my research and project implementations in the field of
    - Transcription models optimized for accuracy and speed.
 4. **Speech-to-Speech Conversion Tools**:
    - Real-time voice transformation and translation experiments.
-<br/><br/>
 
 ## Contact
 📫 Feel free to reach out to collaborate or discuss AI research!  
 - **Email**: [imkimbn@gmail.com](mailto:imkimbn@gmail.com)
   
-<br/>
 Let's innovate together! 🚀
-<br/>
