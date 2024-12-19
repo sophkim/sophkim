@@ -1,5 +1,5 @@
 ## About Me
-Hello! 👋 I am currently pursuing a MS in Artificial Intelligence, specializing in **audio processing and generation**. My research interests include:
+Hello! 👋 I am currently pursuing a Master's degree in Artificial Intelligence, specializing in **audio processing and generation**. My research interests include:
 - **Diffusion Models**: Exploring generative capabilities in audio and beyond.
 - **Audio Generation**: Creating realistic and expressive audio content.
 - **Text-to-Speech (TTS)**: Synthesizing natural-sounding speech from text inputs.
